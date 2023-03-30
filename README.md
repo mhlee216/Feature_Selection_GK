@@ -6,6 +6,6 @@
 
 https://doi.org/10.1016/j.mtcomm.2022.104208
 
-MyeonghunLee+, MinseonKim, KyoungminMin*
+Myeonghun Lee<sup>+,</sup>, Minseon Kim, Kyoungmin Min*
 
 Materials Today Communications
